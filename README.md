@@ -5,7 +5,7 @@ This repository shows how to perform ETL process in the AWS with the help of SDK
 
 <b>SDK:</b> It extracts and push the records in the Amazon Firehose to calculate Sentiments using <b>Comprehend<b>.
 
-  <b>Firehose:</b> It acts as collecting data from multiple sources and perform manipulation using <b>Lambda</b> function and store into <b>S3<b> bucket.
+  <b>Firehose:</b> It acts as collecting data from multiple sources and perform manipulation using <b>Lambda</b> function and store into <b>S3</b> bucket.
 
   <b>Lambda:</b> This function connects to the NLP/ML algorithm to calculate sentiments of each record using <b>boto3</b>.
 
