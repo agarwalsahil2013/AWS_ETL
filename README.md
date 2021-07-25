@@ -19,9 +19,9 @@ This repository shows how to perform ETL process in the AWS with the help of SDK
   
   <b>Original Data</b>
   ![Raw Data](Images/Original_Data.PNG)
-  
-  
+ 
   <b>Sentimental Data Added with the Original Data</b>
+  
   ![Sentimental Data](Images/Sentiment_Column.PNG)
   
   <b>Table created to perform Analysis using SQL</b>
